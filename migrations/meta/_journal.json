@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1739378460086,
+      "tag": "0000_nappy_morgan_stark",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1739379217219,
+      "tag": "0001_open_chamber",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1739379690955,
+      "tag": "0002_fuzzy_wendell_vaughn",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1739501757159,
+      "tag": "0003_square_gabe_jones",
+      "breakpoints": true
+    }
+  ]
+}
